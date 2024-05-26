@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/abstraction/abstraction.iml" filepath="$PROJECT_DIR$/abstraction/abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tut08_inheritance&amp;abstraction.iml" filepath="$PROJECT_DIR$/.idea/tut08_inheritance&amp;abstraction.iml" />
+    </modules>
+  </component>
+</project>

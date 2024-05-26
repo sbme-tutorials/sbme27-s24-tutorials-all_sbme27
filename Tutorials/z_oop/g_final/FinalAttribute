@@ -1,0 +1,30 @@
+// static
+final double PI = 3.14;
+PI = 3.142; // compile time error: The final local variable PI cannot be assigned
+
+// final method cannot be overriden
+public class Parent {
+    public final void doSomething() {
+      // implementation
+    }
+  }
+  
+  public class Child extends Parent {
+  
+    @Override
+    public final void doSomething() {
+      // compile-time error: cannot override final method from Parent class
+    }
+  }
+
+
+
+// final class cannot be inherited (subclasses)
+
+public final class MyClass {
+    // implementation
+  }
+  
+  public class MySubclass extends MyClass {
+    // compile-time error: MyClass cannot be subclassed
+  }

@@ -1,0 +1,1 @@
+https://www.baeldung.com/java-observer-pattern#:~:text=Observer%20is%20a%20behavioral%20design,channels%20when%20it%20receives%20news.

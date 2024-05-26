@@ -1,0 +1,3 @@
+https://www.digitalocean.com/community/tutorials/s-o-l-i-d-the-first-five-principles-of-object-oriented-design?fbclid=IwAR1e30UYHZzoKT4v3tqkfM6Jij4odGLWc5Vg9rsTDJziQ72wfBoc_SVr58w
+
+https://medium.com/ssense-tech/dependency-injection-vs-dependency-inversion-vs-inversion-of-control-lets-set-the-record-straight-5dc818dc32d1#:~:text=The%20Inversion%20of%20Control%20is,dependencies%20to%20an%20application's%20class.
